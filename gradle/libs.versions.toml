@@ -22,7 +22,7 @@ kotlinxSerializationJson = "1.6.0"
 kotlinxDateTime = "0.4.1"
 koinCore = "3.5.0"
 paging = "3.3.0-alpha02-0.4.0"
-koinAndroid = "3.5.0"
+koinAndroid = "3.5.6"
 voyager = "1.0.0"
 
 [libraries]
